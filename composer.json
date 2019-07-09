@@ -10,6 +10,7 @@
     "authors": [
        
     ],
+    "license": "MIT",
 	"autoload": {
         "psr-4": {
             "Metawesome\\XmlToArray\\": "src"
