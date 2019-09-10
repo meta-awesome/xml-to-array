@@ -1,7 +1,7 @@
 {
     "name": "metawesome/laravel-xml-to-array",
     "description": "Easily convert valid xml to a php array.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "laravel",
         "xml",
